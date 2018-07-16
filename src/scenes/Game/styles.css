@@ -1,0 +1,19 @@
+.Game {
+  border: 0;
+  min-width: 320px; }
+  .Game h1 {
+    background-color: #184315;
+    color: #fff;
+    font-size: 20px;
+    margin: 0 0 10px;
+    padding: 20px;
+    text-align: center; }
+  .Game .modes {
+    margin: 20px 0; }
+  .Game .challenge > div {
+    margin: 0 auto; }
+  .Game .footer {
+    background-color: #65904B;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center; }

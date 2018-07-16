@@ -1,0 +1,18 @@
+.WeaponList {
+  height: 160px;
+  text-align: center; }
+  .WeaponList ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; }
+  .WeaponList li {
+    display: inline-block; }
+  .WeaponList button {
+    background: transparent;
+    height: 120px;
+    padding: 0;
+    width: 120px; }
+  .WeaponList .label {
+    display: inline-block;
+    font-size: 12px;
+    margin: 10px 0; }

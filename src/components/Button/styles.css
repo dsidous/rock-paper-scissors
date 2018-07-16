@@ -1,0 +1,11 @@
+.Button {
+  background-color: #fff;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #27466E;
+  padding: 7px 12px; }
+  .Button:hover {
+    opacity: 0.8; }
+  .Button:disabled {
+    opacity: 0.5; }
